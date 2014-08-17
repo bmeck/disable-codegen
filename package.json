@@ -1,0 +1,12 @@
+{
+  "name": "disable-codegen",
+  "version": "1.0.0",
+  "description": "Hooks to disable eval() and Function() in the current V8 context",
+  "main": "addon.js",
+  "author": "bradleymeck",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^1.3.0"
+  }
+}
